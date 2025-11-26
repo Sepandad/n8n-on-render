@@ -16,6 +16,6 @@ services:
       - key: N8N_BASIC_AUTH_ACTIVE
         value: "true"
       - key: N8N_BASIC_AUTH_USER
-        value: Ah@791111101
+        value: sepandads
       - key: N8N_BASIC_AUTH_PASSWORD
         value: Ah@791111101
